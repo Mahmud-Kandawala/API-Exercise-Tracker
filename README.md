@@ -15,6 +15,7 @@ Start by importing the project on Replit.
 Next, you will see a .replit window.
 Select Use run command and click the Done button.
 
+Your responses should have the following structures.
 Exercise:
 ```
 {
