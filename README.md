@@ -15,7 +15,7 @@ Start by importing the project on Replit.
 Next, you will see a .replit window.
 Select Use run command and click the Done button.
 
-`
+```
 Exercise:
 
 {
@@ -43,7 +43,7 @@ Log:
     date: "Mon Jan 01 1990",
   }]
 }
-`
+```
 Hint: For the date property, the toDateString method of the Date API can be used to achieve the expected output.
 
 
